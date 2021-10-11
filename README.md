@@ -1,6 +1,8 @@
 Example of usage unit and integration test coverage reports in SonarQube
 ================================
 
+
+
 For publishing jacoco reports to sonarqube setup new profile with your credentials in local ~/.m2/settings.xml file:
 
     <profile>
